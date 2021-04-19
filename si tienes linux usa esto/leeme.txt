@@ -1,0 +1,16 @@
+--------------------------------------- SOLAMENTE PARA SISTEMAS OPERATIVOS Linux ---------------------------------------------------------------------
+
+1)Para poder instalar los archivos linux que contraen esta carpeta tendran que mover los archivos en la carpeta resources/players
+
+2) ahi pegaran los .lua que contraigan la carpeta que te dejaremos aqui y podras disfrutar de la nueva version de paradise sin errores en Linux :D
+
+
+
+
+Desarrolladores:
+
+-Mabako
+-Zeus
+-Pandfort
+-Lukitas
+
